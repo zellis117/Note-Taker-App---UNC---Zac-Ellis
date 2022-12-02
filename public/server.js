@@ -5,7 +5,7 @@ const router = express.Router();
 
 const fs = require('fs'); //Needed to write to file
 
-const PORT = 3001;
+const PORT = (process.env.PORT || 3001);
 const app = express();
 
 //Middleware
