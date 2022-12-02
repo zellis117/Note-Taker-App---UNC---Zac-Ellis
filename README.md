@@ -36,5 +36,4 @@ GitHub: zellis117 , Email: zacellis117@gmail.com
 
 <a name="screenShots"></a>
 ## Screen Shots
-Link to demonstration video: https://drive.google.com/file/d/18nbV7nTem45Um9NlvbsuRx57-Tg-Oiid/view 
 ![Alt Screenshot of application running](./images/screenShot1.jpg)
